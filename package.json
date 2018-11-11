@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "vue": "^2.2.2",
-    "jquery": "^1.8",
+    "jquery": "^3.3.1",
     "floatthead": "^2.0.3"
   },
   "devDependencies": {
